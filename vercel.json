@@ -24,6 +24,11 @@
       "source": "/project-neighbourhood-coffee-bar-the-hague.html",
       "destination": "/project-oak-kitchen-family-home.html",
       "permanent": true
+    },
+    {
+      "source": "/project-city-apartment-valencia.html",
+      "destination": "/project-family-townhouse.html",
+      "permanent": true
     }
   ]
 }
