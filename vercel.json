@@ -34,6 +34,11 @@
       "source": "/project-family-townhouse.html",
       "destination": "/project-family-townhouse-the-hague.html",
       "permanent": true
+    },
+    {
+      "source": "/project-coastal-family-house-scheveningen.html",
+      "destination": "/projects.html",
+      "permanent": true
     }
   ]
 }
