@@ -1,16 +1,18 @@
 # Flat White Living — website
 
-Static site, ready for GitHub Pages.
-
-## Publish
-1. Create a repository and upload the contents of this folder to its root.
-2. Settings → Pages → Deploy from branch → `main` / root.
-3. Custom domain: replace `https://www.flatwhiteliving.com/` in every page's `<head>`, `sitemap.xml` and `robots.txt` with the real domain, and add a `CNAME` file containing it.
+Static HTML site, deployed with Vercel from the `main` branch (every push to `main` publishes automatically).
 
 ## Structure
-- `*.html` — pages (`index.html` is the home page)
-- `images/` — photographs, SEO-named
-- `assets/css`, `assets/js` — styles and runtime scripts
-- `sitemap.xml`, `robots.txt`
+- `*.html` — pages (`index.html` is the home page). Plain static HTML: no build step, no JavaScript framework.
+- `images/` — photographs, SEO-named (max. 1600 px on the long side)
+- `assets/css/styles.css` — styles
+- `sitemap.xml`, `robots.txt`, `llms.txt` (summary of the site for AI search engines)
+- `vercel.json` — cache headers
+
+## Domain
+Canonical URLs, `sitemap.xml`, `robots.txt` and `llms.txt` use `https://www.flatwhiteliving.com/`.
+Connect that domain in Vercel → Settings → Domains.
+
+When a page is added: add it to `sitemap.xml` and `llms.txt`.
 
 All project photographs © Flat White Living.
