@@ -27,7 +27,12 @@
     },
     {
       "source": "/project-city-apartment-valencia.html",
-      "destination": "/project-family-townhouse.html",
+      "destination": "/project-family-townhouse-the-hague.html",
+      "permanent": true
+    },
+    {
+      "source": "/project-family-townhouse.html",
+      "destination": "/project-family-townhouse-the-hague.html",
       "permanent": true
     }
   ]
