@@ -44,6 +44,16 @@
       "source": "/project-townhouse-renovation-the-hague.html",
       "destination": "/project-bedroom-renovation-the-hague.html",
       "permanent": true
+    },
+    {
+      "source": "/project-villa-by-the-dunes-wassenaar.html",
+      "destination": "/project-family-home-statenkwartier-the-hague.html",
+      "permanent": true
+    },
+    {
+      "source": "/project-restored-city-apartment-the-hague.html",
+      "destination": "/project-family-home-visserijbuurt-the-hague.html",
+      "permanent": true
     }
   ]
 }
