@@ -39,6 +39,11 @@
       "source": "/project-coastal-family-house-scheveningen.html",
       "destination": "/projects.html",
       "permanent": true
+    },
+    {
+      "source": "/project-townhouse-renovation-the-hague.html",
+      "destination": "/project-bedroom-renovation-the-hague.html",
+      "permanent": true
     }
   ]
 }
