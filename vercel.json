@@ -54,6 +54,11 @@
       "source": "/project-restored-city-apartment-the-hague.html",
       "destination": "/project-family-home-visserijbuurt-the-hague.html",
       "permanent": true
+    },
+    {
+      "source": "/project-oak-kitchen-family-home.html",
+      "destination": "/project-beach-house-valencia.html",
+      "permanent": true
     }
   ]
 }
